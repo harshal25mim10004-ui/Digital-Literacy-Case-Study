@@ -4,7 +4,7 @@
 ---
 
 ## 👤 Author  
-**Name:** Anadi Rathore  
+**Name:** Harshal Rathore  
 **Course:** Digital Literacy (NGMC)  
 **Institution:** VIT Bhopal University  
 
